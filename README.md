@@ -1,11 +1,11 @@
 <div align="center">
 
 <a href="https://mohdaslam.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:282c34&height=180&section=header&text=Mohamed%20Aslam&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Technology%20Builder%20%26%20Community%20Operator%20%C2%B7%20Singapore&descAlignY=58&descAlign=50&descSize=18" alt="Mohamed Aslam" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:282c34&height=180&section=header&text=Mohamed%20Aslam&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Technology%20Builder%20%26%20Community%20Operator%20%C2%B7%20Singapore&descAlignY=58&descAlign=50&descSize=18" alt="Mohamed Aslam" />
 </a>
 
 <a href="https://mohdaslam.dev">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=I+build+useful+systems+and+bring+people+together;Software+%C2%B7+Automation+%C2%B7+Web+Products;Community+Initiatives+%C2%B7+Tech+Events" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=650&lines=I+build+useful+systems+and+bring+people+together;Software+%C2%B7+Automation+%C2%B7+Web+Products;Community+Initiatives+%C2%B7+Tech+Events;Open-sourcing+ROUTR+%E2%80%94+PRs+welcome+%F0%9F%8C%B1" alt="Typing SVG" />
 </a>
 
 [![Portfolio](https://img.shields.io/badge/-mohdaslam.dev-282c34?style=flat-square&logo=vercel&logoColor=white)](https://mohdaslam.dev)
@@ -40,11 +40,9 @@
 
 <div align="center">
 
-`Next.js` `React` `TypeScript` `JavaScript` `Tailwind CSS` `HTML/CSS`
+<img width="100%" src="https://raw.githubusercontent.com/TeckTinkerere/TeckTinkerere/main/assets/stack-carousel.svg" alt="tech stack: Next.js, React, TypeScript, JavaScript, Tailwind CSS, HTML, CSS, FastAPI, Node.js, PostgreSQL, Supabase, Firebase, Java, Python, Git, GitHub, Vercel, Netlify" />
 
-`FastAPI` `Node.js` `PostgreSQL` `PostGIS` `Supabase` `Firebase` `Java` `Python`
-
-`Git & GitHub` `Vercel` `Netlify` · Secure coding (OWASP Top 10) · System design
+<sub>+ PostGIS · SQL · Secure coding (OWASP Top 10) · System analysis &amp; design · Software testing</sub>
 
 </div>
 
@@ -145,6 +143,15 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TeckTinkerere&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&line=8ab4f8&point=ffffff" />
+  <img width="100%" alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TeckTinkerere&theme=minimal&hide_border=true&bg_color=00000000&area=true" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TeckTinkerere/TeckTinkerere/output/github-contribution-grid-snake-dark.svg" />
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/TeckTinkerere/TeckTinkerere/output/github-contribution-grid-snake.svg" />
 </picture>
@@ -168,4 +175,4 @@ Have a technical problem, website, event, or community idea worth moving forward
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282c34,100:0d1117&height=100&section=footer" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282c34,100:0d1117&height=100&section=footer&animation=twinkling" alt="" />
