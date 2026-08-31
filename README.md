@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://mohdaslam.dev">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:282c34&height=180&section=header&text=Mohamed%20Aslam&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Technology%20Builder%20%26%20Community%20Operator%20%C2%B7%20Singapore&descAlignY=58&descAlign=50&descSize=18" alt="Mohamed Aslam" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:282c34&height=180&section=header&text=Mohamed%20Aslam&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=Technology%20Builder%20and%20Community%20Operator%20%C2%B7%20Singapore&descAlignY=58&descAlign=50&descSize=18" alt="Mohamed Aslam" />
 </a>
 
 <a href="https://mohdaslam.dev">
@@ -131,21 +131,12 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TeckTinkerere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TeckTinkerere&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-flax.vercel.app/api?username=TeckTinkerere&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=8ab4f8&icon_color=8ab4f8&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-stats-eight-flax.vercel.app/api?username=TeckTinkerere&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=TeckTinkerere&theme=tokyonight&hide_border=true&background=00000000&ring=8ab4f8&fire=8ab4f8&currStreakLabel=8ab4f8" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TeckTinkerere&hide_border=true&background=00000000" />
-</picture>
-
-</div>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=TeckTinkerere&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true&line=8ab4f8&point=ffffff" />
-  <img width="100%" alt="contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=TeckTinkerere&theme=minimal&hide_border=true&bg_color=00000000&area=true" />
 </picture>
 
 </div>
