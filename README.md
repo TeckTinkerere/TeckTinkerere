@@ -14,18 +14,19 @@
 
 </div>
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
-### Currently
+### `~/currently`
 
-- 🎓 Studying **Information Technology** at Singapore Polytechnic
-- 🔭 Building **StartupLink** — sole developer on a verified student–founder network
-- 🌐 Co-running **LocalLoco** — hyperlocal deal discovery, sourced by residents
-- 🤝 Open to select website/product work and weekend event-hosting
+<div align="center">
 
-<br>
+<img width="100%" src="https://raw.githubusercontent.com/TeckTinkerere/TeckTinkerere/main/assets/terminal.svg" alt="terminal: whoami, focus, and current status" />
 
-### What I work on
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
+
+### `~/focus`
 
 | | |
 |---|---|
@@ -34,9 +35,9 @@
 | **Events & Facilitation** | Technology events, workshops, and hackathons — kept clear, energetic, human |
 | **Community Initiatives** | Ideas turned into structured pilots through partnerships and ground execution |
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
-### Stack
+### `~/stack`
 
 <div align="center">
 
@@ -46,9 +47,9 @@
 
 </div>
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
-### Open source
+### `~/open-source`
 
 **[ROUTR](https://github.com/TeckTinkerere/ROUTR)** — situational playbook routers for AI coding agents (debug, ship, explore, frontend, motion…). 25 routers across 70+ agents, MIT licensed. **Looking for contributors** — issues, ideas, and PRs are welcome.
 
@@ -60,9 +61,9 @@
 
 </div>
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
-### Selected work
+### `~/work`
 
 <table>
 <tr>
@@ -123,9 +124,9 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 </tr>
 </table>
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
-### GitHub activity
+### `~/activity`
 
 <div align="center">
 
@@ -158,20 +159,43 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 
 </div>
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
-### Recognition
+### `~/log`
+
+<sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
+
+### `~/trophies`
+
+<div align="center">
+
+<img src="https://profile-trophy.vercel.app/?username=TeckTinkerere&theme=matrix&no-frame=true&row=1&column=8" alt="GitHub trophies" />
+
+</div>
+
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
+
+### `~/recognition`
 
 - 🥇 **1st place** — Youth Action Challenge, Season 6 · National Youth Council, 2025
 - 🥈 **2nd place** — Batey Hackathon 2024 · Singapore Polytechnic
 - 🥉 **3rd place** — AI for Good (Youth), Student Facilitator · AI Singapore, 2025
 
-<br>
+<img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
 
 <div align="center">
 
 Have a technical problem, website, event, or community idea worth moving forward? <br>
 **[Get in touch →](https://mohdaslam.dev/contact)**
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=TeckTinkerere&style=flat-square&color=282c34&label=profile+views" alt="profile views" />
 
 </div>
 
