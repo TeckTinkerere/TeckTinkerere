@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-2. ℹ️ Reopened PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-3. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-4. 💪 Opened PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-5. 🚀 Published release [Nudgio v1.6.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v1.6.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+1. 🗣 Commented on [#4](https://github.com/Anuj579/birthday-site/pull/4#issuecomment-5480994812) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
+2. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
+3. ℹ️ Reopened PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
+4. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
+5. 💪 Opened PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
