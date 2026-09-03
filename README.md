@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/Anuj579/birthday-site/pull/4#issuecomment-5480994812) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-2. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-3. ℹ️ Reopened PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-4. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
-5. 💪 Opened PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
+1. 💪 Opened PR [#2](https://github.com/TeckTinkerere/kreatorsNest/pull/2) in [TeckTinkerere/kreatorsNest](https://github.com/TeckTinkerere/kreatorsNest)
+2. 🎉 Merged PR [#1](https://github.com/TeckTinkerere/thepawlour/pull/1) in [TeckTinkerere/thepawlour](https://github.com/TeckTinkerere/thepawlour)
+3. 💪 Opened PR [#1](https://github.com/TeckTinkerere/thepawlour/pull/1) in [TeckTinkerere/thepawlour](https://github.com/TeckTinkerere/thepawlour)
+4. 🗣 Commented on [#4](https://github.com/Anuj579/birthday-site/pull/4#issuecomment-5480994812) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
+5. ❌ Closed PR [#4](https://github.com/Anuj579/birthday-site/pull/4) in [Anuj579/birthday-site](https://github.com/Anuj579/birthday-site)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
