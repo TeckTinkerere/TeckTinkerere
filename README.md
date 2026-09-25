@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/TeckTinkerere/myportfolio/pull/5) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
-2. 🚀 Published release [v1.8.1](https://github.com/TeckTinkerere/Nudgio/releases/tag/v1.8.1) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-3. 🚀 Published release [v1.8.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v1.8.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-4. 🎉 Merged PR [#6](https://github.com/TeckTinkerere/Nudgio/pull/6) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-5. 💪 Opened PR [#6](https://github.com/TeckTinkerere/Nudgio/pull/6) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+1. 🎉 Merged PR [#8](https://github.com/TeckTinkerere/myportfolio/pull/8) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
+2. 💪 Opened PR [#8](https://github.com/TeckTinkerere/myportfolio/pull/8) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
+3. 🎉 Merged PR [#7](https://github.com/TeckTinkerere/myportfolio/pull/7) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
+4. 💪 Opened PR [#7](https://github.com/TeckTinkerere/myportfolio/pull/7) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
+5. 🎉 Merged PR [#6](https://github.com/TeckTinkerere/myportfolio/pull/6) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
