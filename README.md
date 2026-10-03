@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Nudgio v2.1.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.1.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-2. 🚀 Published release [Nudgio v2.0.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.0.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-3. 🚀 Published release [v1.9.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v1.9.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-4. 🎉 Merged PR [#8](https://github.com/TeckTinkerere/myportfolio/pull/8) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
-5. 💪 Opened PR [#8](https://github.com/TeckTinkerere/myportfolio/pull/8) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
+1. 🚀 Published release [Nudgio 2.1.1](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.1.1) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+2. 🚀 Published release [Nudgio v2.1.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.1.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+3. 🚀 Published release [Nudgio v2.0.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.0.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+4. 🚀 Published release [v1.9.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v1.9.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+5. 🎉 Merged PR [#8](https://github.com/TeckTinkerere/myportfolio/pull/8) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
