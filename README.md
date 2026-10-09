@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/TeckTinkerere/Nudgio/pull/7) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-2. 🚀 Published release [Nudgio v2.3.1](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.3.1) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-3. 🚀 Published release [Nudgio v2.3.0](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.3.0) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-4. 💪 Opened PR [#7](https://github.com/TeckTinkerere/Nudgio/pull/7) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-5. 🚀 Published release [Nudgio 2.2.1](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.2.1) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+1. 💪 Opened PR [#11](https://github.com/TeckTinkerere/ROUTR/pull/11) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+2. 🎉 Merged PR [#10](https://github.com/TeckTinkerere/ROUTR/pull/10) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+3. 💪 Opened PR [#10](https://github.com/TeckTinkerere/ROUTR/pull/10) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+4. 🎉 Merged PR [#9](https://github.com/TeckTinkerere/ROUTR/pull/9) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+5. 💪 Opened PR [#9](https://github.com/TeckTinkerere/ROUTR/pull/9) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
