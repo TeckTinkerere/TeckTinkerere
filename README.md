@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/TeckTinkerere/ROUTR/pull/12) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
-2. 💪 Opened PR [#12](https://github.com/TeckTinkerere/ROUTR/pull/12) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
-3. 🎉 Merged PR [#11](https://github.com/TeckTinkerere/ROUTR/pull/11) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
-4. 💪 Opened PR [#11](https://github.com/TeckTinkerere/ROUTR/pull/11) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
-5. 🎉 Merged PR [#10](https://github.com/TeckTinkerere/ROUTR/pull/10) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+1. 💪 Opened PR [#20](https://github.com/TeckTinkerere/Nudgio/pull/20) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+2. 💪 Opened PR [#9](https://github.com/TeckTinkerere/myportfolio/pull/9) in [TeckTinkerere/myportfolio](https://github.com/TeckTinkerere/myportfolio)
+3. 🎉 Merged PR [#12](https://github.com/TeckTinkerere/ROUTR/pull/12) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+4. 💪 Opened PR [#12](https://github.com/TeckTinkerere/ROUTR/pull/12) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+5. 🎉 Merged PR [#11](https://github.com/TeckTinkerere/ROUTR/pull/11) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
