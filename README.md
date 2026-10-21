@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/TeckTinkerere/Nudgio/pull/25) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-2. 🗣 Commented on [#12](https://github.com/TeckTinkerere/Nudgio/pull/12#issuecomment-6295313221) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-3. 🗣 Commented on [#10](https://github.com/TeckTinkerere/Nudgio/pull/10#issuecomment-6295302459) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-4. 🗣 Commented on [#9](https://github.com/TeckTinkerere/Nudgio/pull/9#issuecomment-6283923163) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-5. 🚀 Published release [Nudgio v2.3.2](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.3.2) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+1. 🚀 Published release [Nudgio v2.3.4](https://github.com/TeckTinkerere/Nudgio/releases/tag/v2.3.4) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+2. 💪 Opened PR [#25](https://github.com/TeckTinkerere/Nudgio/pull/25) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+3. 🗣 Commented on [#12](https://github.com/TeckTinkerere/Nudgio/pull/12#issuecomment-6295313221) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+4. 🗣 Commented on [#10](https://github.com/TeckTinkerere/Nudgio/pull/10#issuecomment-6295302459) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+5. 🗣 Commented on [#9](https://github.com/TeckTinkerere/Nudgio/pull/9#issuecomment-6283923163) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
