@@ -157,11 +157,11 @@ More building, hosting, and coordinating over at **[mohdaslam.dev/work](https://
 <sub>Auto-updated daily by a GitHub Action — latest activity across my repos.</sub>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/TeckTinkerere/Nudgio/pull/30) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-2. 🎉 Merged PR [#27](https://github.com/TeckTinkerere/Nudgio/pull/27) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-3. 🎉 Merged PR [#26](https://github.com/TeckTinkerere/Nudgio/pull/26) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-4. 💪 Opened PR [#27](https://github.com/TeckTinkerere/Nudgio/pull/27) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
-5. 🎉 Merged PR [#25](https://github.com/TeckTinkerere/Nudgio/pull/25) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+1. 💪 Opened PR [#14](https://github.com/TeckTinkerere/ROUTR/pull/14) in [TeckTinkerere/ROUTR](https://github.com/TeckTinkerere/ROUTR)
+2. 💪 Opened PR [#30](https://github.com/TeckTinkerere/Nudgio/pull/30) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+3. 🎉 Merged PR [#27](https://github.com/TeckTinkerere/Nudgio/pull/27) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+4. 🎉 Merged PR [#26](https://github.com/TeckTinkerere/Nudgio/pull/26) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
+5. 💪 Opened PR [#27](https://github.com/TeckTinkerere/Nudgio/pull/27) in [TeckTinkerere/Nudgio](https://github.com/TeckTinkerere/Nudgio)
 <!--END_SECTION:activity-->
 
 <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:282c34,100:0d1117&height=4" alt="" />
